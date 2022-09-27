@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90a0fd5f-7f1a-43d5-9846-180aa6b2ba26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BonusService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +44,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BonusServiceTest">
+  <component name="RunManager" selected="JUnit.BonusServiceTest.shouldCalculateForUnregisteredAndUnderLimit">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Homework.Java.QA.Maven" />
@@ -77,8 +71,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BonusServiceTest.shouldCalculateForUnregisteredAndOverLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework.Java.QA.Maven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateForUnregisteredAndOverLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusServiceTest.shouldCalculateForUnregisteredAndUnderLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework.Java.QA.Maven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateForUnregisteredAndUnderLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BonusServiceTest.shouldCalculateForUnregisteredAndUnderLimit" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldCalculateForUnregisteredAndOverLimit" />
         <item itemvalue="JUnit.BonusServiceTest" />
         <item itemvalue="JUnit.BonusServiceTest.shouldCalculateForRegisteredAndUnderLimit" />
         <item itemvalue="Application.Main" />
@@ -94,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664263631737</updated>
       <workItem from="1664263641855" duration="202000" />
-      <workItem from="1664264126812" duration="2244000" />
+      <workItem from="1664264126812" duration="3059000" />
     </task>
     <servers />
   </component>
