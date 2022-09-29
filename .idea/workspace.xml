@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="90a0fd5f-7f1a-43d5-9846-180aa6b2ba26" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +41,15 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
   <component name="RunManager" selected="JUnit.BonusServiceTest.shouldCalculateForUnregisteredAndUnderLimit">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -110,7 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664263631737</updated>
       <workItem from="1664263641855" duration="202000" />
-      <workItem from="1664264126812" duration="3059000" />
+      <workItem from="1664264126812" duration="3374000" />
+      <workItem from="1664439699373" duration="1336000" />
     </task>
     <servers />
   </component>
